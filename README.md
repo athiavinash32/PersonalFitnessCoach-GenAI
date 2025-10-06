@@ -39,8 +39,8 @@ pip install -r requirements.txt
 ```
 
 4. **Set up environment variables**
-Create a .env file in the root directory
 ```bash
+# Create a .env file in the root directory
 GEMINI_API_KEY=your_google_gemini_api_key_here
 ```
 
